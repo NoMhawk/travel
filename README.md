@@ -1,6 +1,6 @@
-# East Coast & Tasmania: Tested for Real (working title)
+# Proven Routes
 
-A travel planning guide built from one real 11-week trip on Australia's east coast and Tasmania.
+Travel planning guides built from real trips, with real costs and straight verdicts. First trip: 11 weeks on Australia's east coast and Tasmania. Domain: provenroutes.com (to be connected).
 
 Plain HTML and CSS, no build step. Open `index.html` to view.
 
