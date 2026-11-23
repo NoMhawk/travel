@@ -1,6 +1,6 @@
 # Proven Routes
 
-Travel planning guides built from real trips, with real costs and straight verdicts. First trip: 11 weeks on Australia's east coast and Tasmania. Domain: provenroutes.com (to be connected).
+Travel planning guides built from real trips, with real costs and straight verdicts. First trip: 11 weeks on Australia's east coast and Tasmania. Live at https://provenroutes.com (Cloudflare Pages project "travel").
 
 Plain HTML and CSS, no build step. Open `index.html` to view.
 
